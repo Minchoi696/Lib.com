@@ -1,0 +1,56 @@
+body {
+    background-color: #00FF8C;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .addbook-box {
+    width: 360px;
+    height: 520px;
+    margin: auto;
+    background-color: #333;
+    border-radius: 10px;
+  }
+    
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+    color:white;
+  }
+  
+  h4 {
+    text-align: center;
+    color:white;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    color:white;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 2px solid #000;
+    border-radius: 6px;
+    outline: none;
+    cursor: pointer;
+  }
+  .button {
+  
+    width: 320px;
+     height: 35px;
+     margin-top: 20px;
+     border: none;
+     background-color: #00FF8C;
+     color: white;
+     font-size: 18px;
+     cursor: pointer;
+ }
